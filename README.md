@@ -22,7 +22,7 @@
 3) Удаление пользователей.
 4) Поиск пользователей в таблице по имени.
 
-# EN:
+## EN:
 
 This program is designed to store user data. 
 
@@ -43,3 +43,5 @@ Functionality of the admin part:
 2) Editing user passwords.
 3) Deleting users.
 4) Searching for users in the table by name.
+
+##

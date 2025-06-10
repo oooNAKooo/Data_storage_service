@@ -4,6 +4,8 @@
 
 [AdminPanel.js](https://github.com/oooNAKooo/Data_storage_service/tree/main/client/AdminPanel.js) - файл с кодом фронтэнд-части административной панели;
 
+[App.js](https://github.com/oooNAKooo/Data_storage_service/tree/main/client/App.js) - файл с кодом фронтэнд-части главного загрузочного файла;
+
 [AuthForm.js](https://github.com/oooNAKooo/Data_storage_service/tree/main/client/AuthForm.js) - файл с кодом фронтэнд-части панели авторизации;
 
 [ClientPanel.js](https://github.com/oooNAKooo/Data_storage_service/tree/main/client/ClientPanel.js) - файл с кодом фронтэнд-части клиентской панели;
@@ -24,6 +26,8 @@
 Folder with application code files.
 
 [AdminPanel.js](https://github.com/oooNAKooo/Data_storage_service/tree/main/client/AdminPanel.js) - file with the code of the frontend part of the administrative panel;
+
+[App.js](https://github.com/oooNAKooo/Data_storage_service/tree/main/client/App.js) - file with the code of the frontend part of the main boot file;
 
 [AuthForm.js](https://github.com/oooNAKooo/Data_storage_service/tree/main/client/AuthForm.js) - file with the code of the frontend part of the authorization panel;
 

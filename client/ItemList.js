@@ -53,7 +53,6 @@ export const ItemList = ({ userId, items, deleteItem, editItem }) => {
 
         const futureQty = currentQty + (added - subtracted) * totalDays;
 
-        // логирование на сервер
         fetch(`http://127.0.0.1:5000/items/${userId}/${calculationItem.id}`, {
             method: "POST",
             headers: {
